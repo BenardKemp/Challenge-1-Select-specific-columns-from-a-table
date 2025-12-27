@@ -5,6 +5,7 @@
 **Concepts:** `SELECT`, column selection, query clarity  
 
 This challenge teaches a foundational SQL habit: **selecting only the columns you actually need**—instead of using `SELECT *`.
+This challenge is part os a series of SQL challenges [SolveWithSQL](https://solvewithsql.com)
 
 ---
 
